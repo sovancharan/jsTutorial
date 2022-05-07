@@ -1,0 +1,10 @@
+body{
+/* 
+    background-color: aqua; */
+}
+
+#btn{
+    display: flex;
+    justify-content: center;
+   
+    }
